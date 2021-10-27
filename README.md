@@ -1,6 +1,6 @@
-# Olá, me chamo Michael. <img src="https://raw.githubusercontent.com/iampavangandhi iampavangandhi/master/gifs/Hi.gif" width="30px"> Bem-vindo ao meu perfil!
+# Olá, me chamo Michael. <img src="/home/michael/Projetos/perfil/Hi.gif" width="30px"> Bem-vindo ao meu perfil!
 
-<img align="right" alt="GIF" src="https://giphy.com/gifs/90s-80s-illustration-l0HlNaQ6gWfllcjDO/fullscreen" width="500" height="320" />
+<img align="right" alt="GIF" src="/home/michael/Projetos/perfil/pc.gif" width="500" height="320" />
 
 <br/>
 
