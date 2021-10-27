@@ -1,6 +1,4 @@
-# Olá, me chamo Michael. <img src="/home/michael/Projetos/perfil/Hi.gif" width="30px"> Bem-vindo ao meu perfil!
-
-<img align="right" alt="GIF" src="/home/michael/Projetos/perfil/pc.gif" width="500" height="320" />
+# Olá, me chamo Michael. Bem-vindo ao meu perfil!
 
 <br/>
 
@@ -23,6 +21,8 @@ Sou desenvolvedor back-end jr e estou sempre em busca de aprender coisas novas.
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gama.michael@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michaelgama10/)
 [![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/michael-gama-31175a208/)
+
+<br/>
 
 <div align="center"> 
  
