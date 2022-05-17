@@ -9,9 +9,7 @@ Sou desenvolvedor back-end e front-end jr e estou sempre em busca de aprender co
 <br/>
 
 - 🎓👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
-- 👨‍🎓 Aluno da Rocketseat na trilha de Node.js
-- 👨‍🎓 Aluno da Rocketseat na trilha de React.js
-- 🤓 Atualmente estou aprendendo Arquitetura de softwares e melhorando Node, Typescript, TDD, SOLID!
+- 🤓 Conhecimentos em NodeJs e ReactJs.
 - 💬 Estou disponível para trabalhar no modo remoto!
 
 <br/>
