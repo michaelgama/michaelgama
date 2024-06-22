@@ -8,7 +8,8 @@ Sou desenvolvedor back-end e front-end jr e estou sempre em busca de aprender co
 🚀 Sobre mim
 <br/>
 
-- 🎓👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 👨‍🎓 Pós Graduando em Desenvolvimento Web Full Stack.
 - 🤓 Conhecimentos em NodeJs e ReactJs.
 - 💬 Estou disponível para trabalhar no modo remoto!
 
